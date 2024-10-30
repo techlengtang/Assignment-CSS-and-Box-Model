@@ -1,0 +1,30 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: aliceblue;
+    padding : 20px;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+.btn{
+    border: none;
+    padding: 5px;
+    border-radius: 30px;
+}
+.btn-green{
+    background-color: green;
+    color: white;
+}
+.btn-orange{
+    background-color: orange;
+    color: white;
+}
+.btn-purple{
+    background-color: purple;
+    color: white;
+}
